@@ -1,6 +1,6 @@
-# Git-Summarizer 🚀
+# Git-Summarizer CLI
 
-AI-powered Git progress reports and commit message generator.
+AI-powered Git progress reports and commit message generator running inside CLI.
 
 ## Installation
 
